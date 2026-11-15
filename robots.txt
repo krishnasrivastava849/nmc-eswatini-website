@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krishnasrivastava849.github.io/nmc-eswatini-website/sitemap.xml
